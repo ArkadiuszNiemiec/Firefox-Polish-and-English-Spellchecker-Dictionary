@@ -1,0 +1,1 @@
+# Firefox-Polish-and-English-Spellchecker-Dictionary
